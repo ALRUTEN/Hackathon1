@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Hackathon1</string>
     <string name="se_connecter">Se connecter</string>
+    <string name="ajouter_un_souhait">Ajouter un souhait</string>
 </resources>
